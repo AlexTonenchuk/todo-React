@@ -1,0 +1,19 @@
+.appFooter {
+    background-color:#fefefe;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #f4f4f4;
+    color:#7a7a7a;
+    box-shadow: 0 3px 0 #e2e2e2;
+}
+
+button {
+    font-size: 15px;
+    background-color:#ffffff;
+    border: 0px;
+    color: #7a7a7a;
+    cursor: pointer;
+}

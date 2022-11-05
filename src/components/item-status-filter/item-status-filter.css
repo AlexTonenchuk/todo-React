@@ -1,0 +1,9 @@
+.itemStatusFilter button {
+    margin-left: 20px;
+}
+
+.pressed {
+    background-color:#ffffff;
+    border: 1px solid #efdddd;
+    border-radius: 3px;
+}

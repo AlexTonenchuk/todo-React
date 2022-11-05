@@ -1,0 +1,26 @@
+.itemAddForm {
+    background-color: #fefefe;
+    padding: 15px;
+    border: 1px solid #f4f4f4;
+}
+
+.itemAddForm>input {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#fefefe;
+    width: 100%;
+}
+
+.itemAddForm>input:focus{
+    color:#6d6d6d;
+    outline-color:#e4e3e3;
+}
+
+.itemAddForm>input::placeholder {
+    color: #e6e6e6;
+}
+
+.itemAddForm>input {
+    border:0px;
+    font-style: italic;
+}
